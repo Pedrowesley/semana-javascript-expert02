@@ -1,12 +1,4 @@
 # Semana-javascript-expert02
 
 
-Seja bem vindo(a) à segunda Semana Javascript Expert.
-
-Para cada dia, o código fonte completo da aula será adicionado aqui
-
-
-- [Aula 01](./aula01)
-- Aula 02
-- Aula 03
-- Aula 04
+Seamanaa "ExpertJS", construindo do 0 uma plataforma de vídeo conferência com Javascript puro no front e nodeJS no back, utilizando WebSockets para comunicação em tempo real e API's nativas do Javascript
